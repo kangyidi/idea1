@@ -8,6 +8,9 @@ public class Test {
         System.out.println("test");
         System.out.println("test");
         test();
+        //天秀
+        //天秀
+        //天秀
     }
 
     static void test(){
